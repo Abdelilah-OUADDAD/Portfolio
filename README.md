@@ -85,7 +85,7 @@
       <div class="project">
         <h3>Driving Vehicle License System</h3>
         <p>Full management system for driving license applications and processes.</p>
-        <a href="https://abdelilah-ouaddad.github.io/Driving-Vehicle-License/" target="_blank">View on Page</a>
+        <a href="https://abdelilah-ouaddad.github.io/Driving-Vehicle-License/" target="_blank">View on Page</a><br>
         <a href="https://github.com/Abdelilah-OUADDAD/Driving-Vehicle-License" target="_blank">View on GitHub</a>
       </div>
 
@@ -98,7 +98,7 @@
       <div class="project">
         <h3>School Management System</h3>
         <p>A full-stack school management platform built with Spring Boot for managing students, teachers, users, and pedagogical content.</p>
-        <a href="schoolsystem-production-f055.up.railway.app" target="_blank">View on Site web</a>
+        <a href="https://schoolsystem-production-f055.up.railway.app/" target="_blank">View on Site web</a>
       </div>
 
     </div>
