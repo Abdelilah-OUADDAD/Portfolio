@@ -85,19 +85,20 @@
       <div class="project">
         <h3>Driving Vehicle License System</h3>
         <p>Full management system for driving license applications and processes.</p>
+        <a href="https://abdelilah-ouaddad.github.io/Driving-Vehicle-License/" target="_blank">View on Page</a>
         <a href="https://github.com/Abdelilah-OUADDAD/Driving-Vehicle-License" target="_blank">View on GitHub</a>
       </div>
 
-      <div class="project">
+      <!-- <div class="project">
         <h3>Library Management System</h3>
         <p>System to manage books, clients, staff, and rental operations.</p>
         <a href="https://github.com/Abdelilah-OUADDAD/LibraryManagementSysteme" target="_blank">View on GitHub</a>
-      </div>
+      </div> -->
 
       <div class="project">
-        <h3>Online Shop</h3>
-        <p>E-commerce backend simulation handling products, users, and orders.</p>
-        <a href="https://github.com/Abdelilah-OUADDAD/OnlinShop" target="_blank">View on GitHub</a>
+        <h3>School Management System</h3>
+        <p>A full-stack school management platform built with Spring Boot for managing students, teachers, users, and pedagogical content.</p>
+        <a href="schoolsystem-production-f055.up.railway.app" target="_blank">View on Site web</a>
       </div>
 
     </div>
